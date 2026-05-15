@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.karen.teste",
+      "sha256_cert_fingerprints": [
+        "41:24:4A:6E:9F:C7:12:B4:E1:B9:63:5D:5B:9A:F4:5B:47:F3:8C:98:9F:B2:96:CF:27:62:60:52:38:E9:DD:21"
+      ]
+    }
+  }
+]
